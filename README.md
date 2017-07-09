@@ -73,4 +73,4 @@ php artisan key:generate
 
 **Note:** If you receive a 500 error after installation, redo the permissions again.
 
-If you receive any other errors please create an [issue](https://github.com/TuanAmon404/issues).
+If you receive any other errors please create an [issue](https://github.com/TuanAmon404/pw-panel/issues).
